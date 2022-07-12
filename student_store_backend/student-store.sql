@@ -1,4 +1,4 @@
-\echo 'Delete and recreate auth_starter db?'
+\echo 'Delete and recreate student_store db?'
 \prompt 'Return for yes or control-C to cancel > ' answer
 
 DROP DATABASE student_store;
